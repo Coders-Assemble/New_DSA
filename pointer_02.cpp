@@ -19,5 +19,6 @@ int main(){
     char ch[10]="babbar";
     char*c = ch;
     cout<<ch[2]<<endl;
+    cout<<endl;
     return 0;
 }

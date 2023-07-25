@@ -19,7 +19,5 @@ int main(){
         cout<<v[i]<<" "<<endl;
     }cout<<endl;
     }
-
-
     return 0;
 }

@@ -3,7 +3,8 @@
         "*.html": "django-html",
         "ostream": "cpp",
         "vector": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "queue": "cpp"
     },
     "liveServer.settings.port": 5501
 }
